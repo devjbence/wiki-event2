@@ -1,3 +1,0 @@
-wikipedia event query
-=====================
-todo
